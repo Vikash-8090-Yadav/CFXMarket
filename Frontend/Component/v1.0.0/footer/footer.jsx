@@ -125,8 +125,8 @@ const Footer = () => {
         </div>
       </div>
       <div className="sm:px-40 flex justify-between text-sm py-10 bg-[#1B1B1B] text-white flex-col items-center sm:flex-row shadow-xl dark:bg-zinc-900">
-        <p>Copyright &copy; by RE-STORE 2024</p>
-        <p className="mt-5 sm:mt-0">Powered by RE-STORE</p>
+        <p>Copyright &copy; by TARA -STORE 2024</p>
+        <p className="mt-5 sm:mt-0">Powered by TARA -STORE</p>
       </div>
     </>
   );
