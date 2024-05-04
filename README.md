@@ -26,13 +26,22 @@ Explorer Link:  https://testnet.explorer.taraxa.io/address/0x1c140db902076558950
 
 - **Listing Products**: Anyone can easily list their products on our website.
 
+![Screenshot from 2024-05-05 00-57-46](https://github.com/Vikash-8090-Yadav/Tara-Store/assets/85225156/d9abc8b9-bfe7-4df4-a1f6-f06da166458f)
+
+
 - **Unique Digital Assets**: Each product is represented as a unique digital asset called an NFT (non-fungible token), ensuring it has its own digital identity that can't be replicated or divided.
+
+![Screenshot from 2024-05-05 00-58-40](https://github.com/Vikash-8090-Yadav/Tara-Store/assets/85225156/adbc167c-09fe-43cd-88dc-4f601314b5ac)
 
 - **Buy and Resell**: Anyone can buy these NFT products from the farmers, and once someone owns an NFT, they can resell it to others.
 
+![Screenshot from 2024-05-05 00-59-53](https://github.com/Vikash-8090-Yadav/Tara-Store/assets/85225156/d41bce35-9e5a-47e5-adfb-e8b7f9c48514)
+
+
 - **Product  Review**: If a buyer  isn't satisfied with how a particular item is being treated or represented, they can give a  review for it to maintain the integrity and reputation of their products.
 
-  
+![Screenshot from 2024-05-05 01-01-31](https://github.com/Vikash-8090-Yadav/Tara-Store/assets/85225156/287c2ccc-56f8-408b-814d-d9f8652ded58)
+
 
 ## 🛠️Technologies we used
 
