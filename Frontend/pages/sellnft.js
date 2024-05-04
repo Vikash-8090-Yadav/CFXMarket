@@ -248,7 +248,7 @@ const [LIghthouseCid,SetLIghthouseCid] = useState('');
               </div>
               
               <div className="mt-5">
-                <input placeholder="ITEM Price in XDAI" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, price: e.target.value })}/>  
+                <input placeholder="ITEM Price in TARA" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, price: e.target.value })}/>  
               </div>
               
               <div className="mt-5">
