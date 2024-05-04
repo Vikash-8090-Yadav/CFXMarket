@@ -4,7 +4,7 @@
 
 
 
-### Demo Video: 
+### Demo Video: https://youtu.be/cpEV6qA6yaI
 
 ### Frontend Deploy Link: https://tara-store.vercel.app/
 
