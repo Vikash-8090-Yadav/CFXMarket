@@ -10,7 +10,7 @@
 
 ## Introduction 
 
-
+We are solving a major problem ,where anyone can sell goods directly to the customer and make huge profits.Our website works where no middle men involved like distributers where users can feel free by selling their vegetables and goods in our marketplace. This make easier to the buyer and seller which ease at a pace and simplifies major barriers like traditional flow to marketplace like seller has to move to distributers ,logistics and then recieved to customers our solutions will drive to sell directly to the customers which can help farmers maximize their profits from the items
 
 
 ## Contract Info 
@@ -23,15 +23,15 @@ Explorer Link:  https://testnet.explorer.taraxa.io/address/0x1c140db902076558950
 
 ## Working Flow !!
 
-- **Listing Products**: Farmers can easily list their products on our website.
+- **Listing Products**: Anyone can easily list their products on our website.
 
 - **Unique Digital Assets**: Each product is represented as a unique digital asset called an NFT (non-fungible token), ensuring it has its own digital identity that can't be replicated or divided.
 
 - **Buy and Resell**: Anyone can buy these NFT products from the farmers, and once someone owns an NFT, they can resell it to others.
 
-- **Product  Review**: If a farmer isn't satisfied with how a particular item is being treated or represented, they can register a case for it to maintain the integrity and reputation of their products.
+- **Product  Review**: If a buyer  isn't satisfied with how a particular item is being treated or represented, they can give a  review for it to maintain the integrity and reputation of their products.
 
-
+  
 
 ## 🛠️Technologies we used
 
