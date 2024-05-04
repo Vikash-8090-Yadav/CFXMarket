@@ -48,14 +48,11 @@ Explorer Link:  https://testnet.explorer.taraxa.io/address/0x1c140db902076558950
 | Tailwind CSS      | Utility-first CSS framework for building custom designs   | [Tailwind CSS](https://tailwindcss.com/)              |
 | Solidity | Programming language used for smart contract development on the Ethereum blockchain | https://docs.soliditylang.org/ |
 |LightHouse | Store file Secure, Reliable, & Lightning-Fast with Lighthouse. |https://www.lighthouse.storage/|
-|ChainLLink | Chainlink is the decentralized computing platform powering the verifiable web| https://chain.link/|
-|The Graph| The Graph is a decentralized protocol for indexing and querying blockchain data. The Graph makes it possible to query data that is difficult to query directly.|https://thegraph.com/ | 
-| Covalentt |Data infrastructure for the blockchain industry |https://www.covalenthq.com/docs/ |
-|Scroll| Scroll is a decentralized, global team of developers that is focusing on building a holistic approach to scaling Ethereum, prioritizing quality over speed. | https://scroll.io/ | 
+|Taraxa| Taraxa is an EVM-compatible smart contract platform based on t-Graph consensus utilizing blockDAG, with many world-first technical innovations. .| https://docs.taraxa.io/ | 
 
 
 
-## Demo Video
+
 
 
 
