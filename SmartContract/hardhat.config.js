@@ -9,8 +9,8 @@ module.exports = {
   networks:{
     hardhat:{},
     Testnet: {
-      chainId: 842,
-      url: "https://rpc.testnet.taraxa.io",
+      chainId: 5555,
+      url: "https://rpc-kura.cross.technology/",
       accounts: ["5753e65f56865a161fbf41932a0d855139a4ce9dc20d82fb655bff393fc41702"],
     }
   }
