@@ -79,7 +79,7 @@ export default function Navbar() {
           <a className="text-4xl tracking-widest font-semibold" href="/">
             {" "}
             <h2 className="text-yellow-800">
-              <span className="text-blue-800">TARA</span>STORE
+              <span className="text-blue-800">CVC</span>STORE
             </h2>
           </a>
         </div>
