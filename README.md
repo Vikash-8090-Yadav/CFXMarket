@@ -1,9 +1,4 @@
 
-### Demo Video: https://youtu.be/cpEV6qA6yaI
-
-### Frontend Deploy Link: https://tara-store.vercel.app/
-
-
 ## Introduction 
 
 We are solving a major problem ,where anyone can sell goods directly to the customer and make huge profits.Our website works where no middle men involved like distributers where users can feel free by selling their vegetables and goods in our marketplace. This make easier to the buyer and seller which ease at a pace and simplifies major barriers like traditional flow to marketplace like seller has to move to distributers ,logistics and then recieved to customers our solutions will drive to sell directly to the customers which can help farmers maximize their profits from the items
