@@ -7,7 +7,7 @@ import Navbar from "../Component/Course/Nav";
 import { ToastContainer, toast } from 'react-toastify';
 import { notification } from 'antd';
 
-
+import {Web3} from 'web3';
 import {
   marketplaceAddress
 } from '../config'
@@ -21,12 +21,73 @@ import NFTMarketplace from '../abi/marketplace.json'
 
 
 
-export default function Home() {
+export default function Home1() {
   const [nfts, setNfts] = useState([])
   const [loadingState, setLoadingState] = useState('not-loaded')
+
+
+
   useEffect(() => {
-    loadNFTs()
+    async function  test(){
+      const networks = {
+        XCR: {
+        chainId: `0x${Number(5555).toString(16)}`,
+        chainName: "XCR",
+        nativeCurrency: {
+          name: "XCR",
+          symbol: "XCR",
+          decimals: 18,
+        },
+        rpcUrls: ["https://rpc-kura.cross.technology/"],
+      },
+    };
+    if(typeof window.ethereum =="undefined"){
+      console.log("PLease install the metamask");
+  }
+  let web3 =  new Web3(window.ethereum);
+ 
+  if(web3.network !=="XCR"){
+      await window.ethereum.request({
+          method:"wallet_addEthereumChain",
+          params:[{
+              ...networks["XCR"]
+          }]
+      })
+  }
+}
+async function checkNetworkAndLoadNFTs() {
+  try {
+    const web3 = new Web3(window.ethereum);
+    const currentChainId = await web3.eth.getChainId();
+    localStorage.setItem("ChainId",currentChainId);
+
+   
+    
+  
+
+    let chk = localStorage.getItem("ChainId");
+
+
+    // console.log(chk);
+    // alert(chk);
+
+    if (chk !== '5555') { 
+      await test();
+    }
+
+    loadNFTs();
+  } catch (error) {
+    console.error('Error checking network or loading NFTs:', error);
+  }
+}
+
+checkNetworkAndLoadNFTs();
   }, [])
+
+
+
+
+
   async function loadNFTs() {
     /* create a generic provider and query for unsold market items */
     const provider = new ethers.providers.Web3Provider(window.ethereum);

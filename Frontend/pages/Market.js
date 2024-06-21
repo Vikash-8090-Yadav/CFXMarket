@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Home from "./marketplace";
+import Home1 from "./marketplace";
 import Link from 'next/link';
 
 import Navbar from "../Component/Course/Nav";
@@ -54,7 +54,7 @@ function Market() {
               </div>
             </Link>
           </div> */}
-          <Home/>
+          <Home1/>
         </nav>
       </div>
     </div>
